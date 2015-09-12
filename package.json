@@ -1,5 +1,5 @@
 {
-  "name": "angular-app",
+  "name": "invertory API",
   "version": "0.0.0",
   "description": "",
   "main": "server.js",
@@ -9,7 +9,6 @@
   "author": "Reynald Jo Armonia",
   "license": "MIT",
   "dependencies": {
-    "hapi": "^9.3.1",
     "pg": "~3.4.2",
     "restify": "~2.8.2",
     "restify-validation": "0.0.5",
